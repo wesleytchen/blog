@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Wesley\'s Blog'
+title = 'Wesley Chen'
 theme = "paper"
 paginate = 5
 
